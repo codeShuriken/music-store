@@ -32,7 +32,7 @@
 ![Login](https://github.com/codeShuriken/music-store/blob/main/imgs/login.png)
 
 ### Products Search Page
-![Products](https://github.com/codeShuriken/music-store/blob/main/imgs/products.png)
+![Products](https://github.com/codeShuriken/music-store/blob/main/imgs/products_search_page.png)
 
 ### Admin Home Page
 ![Admin](https://github.com/codeShuriken/music-store/blob/main/imgs/admin.png)
