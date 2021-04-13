@@ -25,4 +25,4 @@
 7. Maven, Tomcat
 
 ### Entity Relation Diagram
-![ERD]()
+![ERD](https://github.com/codeShuriken/music-store/blob/main/imgs/erd.png)
