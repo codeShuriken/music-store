@@ -26,3 +26,13 @@
 
 ### Entity Relation Diagram
 ![ERD](https://github.com/codeShuriken/music-store/blob/main/imgs/erd.png)
+
+
+### Login page
+![Login](https://github.com/codeShuriken/music-store/blob/main/imgs/login.png)
+
+### Products Search Page
+![Products](https://github.com/codeShuriken/music-store/blob/main/imgs/products.png)
+
+### Admin Home Page
+![Admin](https://github.com/codeShuriken/music-store/blob/main/imgs/admin.png)
