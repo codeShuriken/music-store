@@ -1,6 +1,6 @@
 # Online Music Store
 
-### Edit
+### Edit (04/14/21)
 Deployed the app on [Heroku](https://online-music-store-01.herokuapp.com/).
 
 ### About
