@@ -1,5 +1,8 @@
 # Online Music Store
 
+### Edit
+Deployed the app on [Heroku](https://online-music-store-01.herokuapp.com/).
+
 ### About
 1.  An online music store where a customer can view/search for music products like songs and albums, add them to a shopping cart and later purchase them. 
 2.  A customer can place multiple orders and all the information about the orders, items purchased in an order are kept persistent using a mysql database.
